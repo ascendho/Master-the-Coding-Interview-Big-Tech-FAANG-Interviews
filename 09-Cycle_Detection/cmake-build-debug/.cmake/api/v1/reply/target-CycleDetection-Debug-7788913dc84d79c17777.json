@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Solution.exe"
+			"path" : "CycleDetection.exe"
 		},
 		{
-			"path" : "Solution.pdb"
+			"path" : "CycleDetection.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "Solution::@6890427a1f51a3e7e1df",
+	"id" : "CycleDetection::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Solution",
-	"nameOnDisk" : "Solution.exe",
+	"name" : "CycleDetection",
+	"nameOnDisk" : "CycleDetection.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -108,12 +108,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Solution.cpp",
+			"path" : "CycleDetection.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Solution.h",
+			"path" : "CycleDetection.h",
 			"sourceGroupIndex" : 1
 		}
 	],

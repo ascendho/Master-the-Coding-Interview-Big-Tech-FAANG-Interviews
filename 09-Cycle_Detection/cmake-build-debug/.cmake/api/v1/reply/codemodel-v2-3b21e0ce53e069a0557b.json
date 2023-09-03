@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Solution::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Solution-Debug-a6172cd5706d0f99c95e.json",
-					"name" : "Solution",
+					"id" : "CycleDetection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CycleDetection-Debug-7788913dc84d79c17777.json",
+					"name" : "CycleDetection",
 					"projectIndex" : 0
 				}
 			]

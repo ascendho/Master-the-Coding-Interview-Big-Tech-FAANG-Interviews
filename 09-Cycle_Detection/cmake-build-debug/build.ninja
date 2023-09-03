@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = D$:/Udemy/DSandAlg/coding-Interview/REPO/09-Cycle_Detection/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Solution
+# Object build statements for EXECUTABLE target CycleDetection
 
 
 #############################################
-# Order-only phony target for Solution
+# Order-only phony target for CycleDetection
 
-build cmake_object_order_depends_target_Solution: phony || CMakeFiles/Solution.dir
+build cmake_object_order_depends_target_CycleDetection: phony || CMakeFiles/CycleDetection.dir
 
-build CMakeFiles/Solution.dir/Solution.cpp.obj: CXX_COMPILER__Solution_Debug D$:/Udemy/DSandAlg/coding-Interview/REPO/09-Cycle_Detection/Solution.cpp || cmake_object_order_depends_target_Solution
-  DEP_FILE = CMakeFiles\Solution.dir\Solution.cpp.obj.d
+build CMakeFiles/CycleDetection.dir/CycleDetection.cpp.obj: CXX_COMPILER__CycleDetection_Debug D$:/Udemy/DSandAlg/coding-Interview/REPO/09-Cycle_Detection/CycleDetection.cpp || cmake_object_order_depends_target_CycleDetection
+  DEP_FILE = CMakeFiles\CycleDetection.dir\CycleDetection.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++20
-  OBJECT_DIR = CMakeFiles\Solution.dir
-  OBJECT_FILE_DIR = CMakeFiles\Solution.dir
+  OBJECT_DIR = CMakeFiles\CycleDetection.dir
+  OBJECT_FILE_DIR = CMakeFiles\CycleDetection.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Solution
+# Link build statements for EXECUTABLE target CycleDetection
 
 
 #############################################
-# Link the executable Solution.exe
+# Link the executable CycleDetection.exe
 
-build Solution.exe: CXX_EXECUTABLE_LINKER__Solution_Debug CMakeFiles/Solution.dir/Solution.cpp.obj
+build CycleDetection.exe: CXX_EXECUTABLE_LINKER__CycleDetection_Debug CMakeFiles/CycleDetection.dir/CycleDetection.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Solution.dir
+  OBJECT_DIR = CMakeFiles\CycleDetection.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Solution.exe
-  TARGET_IMPLIB = libSolution.dll.a
-  TARGET_PDB = Solution.exe.dbg
+  TARGET_FILE = CycleDetection.exe
+  TARGET_IMPLIB = libCycleDetection.dll.a
+  TARGET_PDB = CycleDetection.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Solution: phony Solution.exe
+build CycleDetection: phony CycleDetection.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Solution: phony Solution.exe
 #############################################
 # Folder: D:/Udemy/DSandAlg/coding-Interview/REPO/09-Cycle_Detection/cmake-build-debug
 
-build all: phony Solution.exe
+build all: phony CycleDetection.exe
 
 # =============================================================================
 # Built-in targets

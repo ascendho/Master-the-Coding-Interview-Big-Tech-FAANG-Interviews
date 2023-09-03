@@ -1,4 +1,4 @@
-#include "Solution.h"
+#include "CycleDetection.h"
 #include <unordered_set>
 
 ListNode *detectCycle_Floyd(ListNode *head) {

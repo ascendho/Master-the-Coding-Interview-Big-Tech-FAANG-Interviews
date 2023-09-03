@@ -1,5 +1,5 @@
-#ifndef INC_09_CYCLE_DETECTION_SOLUTION_H
-#define INC_09_CYCLE_DETECTION_SOLUTION_H
+#ifndef INC_09_CYCLE_DETECTION_CYCLEDETECTION_H
+#define INC_09_CYCLE_DETECTION_CYCLEDETECTION_H
 
 /* Definition for singly-linked list. */
 
@@ -14,4 +14,4 @@ ListNode *detectCycle_Floyd(ListNode *head);
 
 ListNode *detectCycle_HashMap(ListNode *head);
 
-#endif //INC_09_CYCLE_DETECTION_SOLUTION_H
+#endif //INC_09_CYCLE_DETECTION_CYCLEDETECTION_H
