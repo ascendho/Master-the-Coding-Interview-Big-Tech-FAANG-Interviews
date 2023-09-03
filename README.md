@@ -6,9 +6,9 @@
 
 ## 面试题
 
-| 题号 |                             题解                             |                             出处                             |        状态        |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: |
-|  09  | <a href="09-Cycle_Detection/CycleDetection.cpp">环形链表</a> | <a href="https://leetcode.com/problems/linked-list-cycle-ii/">Leetcode</a> | :white_check_mark: |
+| 题号 |                             题解                             | 难度 |                             出处                             |        状态        |
+| :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: | :----------------: |
+|  09  | <a href="09-Cycle_Detection/CycleDetection.cpp">环形链表</a> | 中等 | <a href="https://leetcode.com/problems/linked-list-cycle-ii/">Leetcode</a> | :white_check_mark: |
 
 
 
