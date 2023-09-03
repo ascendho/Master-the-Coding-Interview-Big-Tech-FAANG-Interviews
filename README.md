@@ -1,3 +1,9 @@
+## Technical Interview Map
+
+![Master_the_Interview_Click_here_for_Course_Link_](img/Master_the_Interview_Click_here_for_Course_Link_.png)
+
+
+
 ## Interview Problems
 
 | 题号 |                             题解                             |                             出处                             |        状态        |
@@ -8,7 +14,7 @@
 
 ## Lectures
 
-|   章节   |                             内容                             | 状态 |
-| :------: | :----------------------------------------------------------: | :--: |
-| 二维数组 | <a href="Lectures/2D-Arrays/MatrixTraversal.cpp">遍历算法</a> |  🚧   |
+| 序号 |   章节   |                             内容                             | 状态 |
+| :--: | :------: | :----------------------------------------------------------: | :--: |
+|  02  | 二维数组 | <a href="Lectures/2D-Arrays/MatrixTraversal.cpp">遍历算法</a> |  🚧   |
 
