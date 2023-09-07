@@ -1,0 +1,4 @@
+"D:\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\Udemy\DSandAlg\coding-Interview\REPO\Interview Problems\10-Valid_Parentheses" -B "D:\Udemy\DSandAlg\coding-Interview\REPO\Interview Problems\10-Valid_Parentheses\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Udemy/DSandAlg/coding-Interview/REPO/Interview Problems/10-Valid_Parentheses/cmake-build-debug
